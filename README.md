@@ -20,7 +20,7 @@
 ### I am a Fullstack developer
 - 🔭 Currently **working** on **updating** and improving **my web** resume and **portfolio**
 - 😄 Currently working with *Bosonit* associated with *NWorld*
-- 🌱 Currently learning more about *roadmap Back-End* with **Java**, **Python**.
+- 🌱 Currently learning more about *roadmap Back-End* with **Java**, **Python**, **PHP**
 - 🥅 Currently learning too more about *roadmap Front-end* with **Angular**, **React**, **Ionic** --> with 4GeeksAcademy
 - 📬 *How to reach me*: <a href="https://www.linkedin.com/in/danielruizgonzalez/">Linkedin</a>
 - 🧗 *I try to:* be better than the day before and so every day. I love programming and the IT world, it will never be enough
