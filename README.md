@@ -21,7 +21,6 @@
 - 😄 Currently working with [*Bosonit*](https://bosonit.com/) associated with [*NWorld*](https://n.world/)
 - 🌱 Currently learning more about *roadmap Back-End* with **Java**, **Python**, **PHP**
 - 🥅 Currently learning too more about *roadmap Front-end* with **Angular**, **React**, **Ionic** --> with 4GeeksAcademy
-- 📬 *How to reach me*: <a href="https://www.linkedin.com/in/danielruizgonzalez/">Linkedin</a>
 - 🧗 *I try to:* be better than the day before and so every day. I love programming and the IT world, it will never be enough
 
 <br>
